@@ -20,3 +20,7 @@ Hey Guys
 ```js
 log("Hey {}! What's up {}", ["Guys", "lol"])
 ```
+#### Result
+```
+Hey Guys! What's up lol
+```
