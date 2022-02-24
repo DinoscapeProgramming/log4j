@@ -24,3 +24,17 @@ log("Hey {}! What's up {}", ["Guys", "lol"])
 ```
 Hey Guys! What's up lol
 ```
+
+## Example
+```js
+```
+
+## Note
+THIS PACKAGE IS DEPRECATED! PLEASE USE THIS:
+```js
+const settings = {
+  first: "Guys",
+  second: "lol"
+}
+console.log(`Hey ${settings.first}! What's up ${settings.second}`)
+```
