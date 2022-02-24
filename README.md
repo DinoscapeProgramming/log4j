@@ -11,6 +11,10 @@ const log = require('./log4j.js')
 ```js
 log("Hey Guys!")
 ```
+#### Result
+```
+Hey Guys
+```
 
 ### Using elements
 ```js
