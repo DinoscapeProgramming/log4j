@@ -1,4 +1,4 @@
-const log = require('log4j.js');
+const log = require('./log4j.js');
 const settings = {
   first: "test",
   second: "package",
